@@ -1,6 +1,6 @@
 # 📦 API Flask com PostgreSQL e Docker
 
-Este projeto é uma API RESTful simples desenvolvida com **Flask** (Python), utilizando **SQLAlchemy** como ORM e persistência de dados em **PostgreSQL**, tudo containerizado via **Docker** e orquestrado com **Docker Compose**.
+Este projeto é uma API RESTful simples desenvolvida com **Flask** (Python), utilizando **SQLAlchemy** como ORM e armazenamento no **PostgreSQL**, tudo containerizado via **Docker**.
 
 ---
 
